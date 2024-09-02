@@ -116,9 +116,10 @@ Project Summary: This Project is a walkthrough of the steps I took to showcase v
 
 ![image](https://github.com/user-attachments/assets/1adbe6c4-81c3-46c0-8ecd-88f42b27751d)
 
-IGAGE
 IMAGE
+
 IMAGE
+
 IMAGE
 
 <p>
@@ -129,6 +130,7 @@ IMAGE
 </p>
 
 IMAGE
+
 IMAGE
 
 <p>
@@ -145,3 +147,6 @@ IMAGE
   <br> - Back in Wireshark, filtered for RDP traffic only (tcp.port == 3389) </b>
   <br> - Observed the immediate non-stop spam of traffic due to rdp constantly showing live traffic from one computer to another </b>
 </p>
+
+
+Congratulations! You have now used different network protocols!  Don't forget to delete your resources to practice again!
