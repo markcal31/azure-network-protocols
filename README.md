@@ -116,4 +116,32 @@ Project Summary: This Project is a walkthrough of the steps I took to showcase v
 
 ![image](https://github.com/user-attachments/assets/1adbe6c4-81c3-46c0-8ecd-88f42b27751d)
 
+IGAGE
+IMAGE
+IMAGE
+IMAGE
 
+<p>
+<br> Part 4 (Observe DHCP Traffic) </b>
+  <br> - Back in Wireshark, I filtered for DHCP traffic only </b>
+  <br> - From the Windows 10 VM (VM1), I attempt to issue the VM a new IP address from the command line (ipconfig /renew)  </b>
+  <br> - Observed the DHCP traffic appearing in WireShark </b>
+</p>
+
+IMAGE
+IMAGE
+
+<p>
+<br> Part 5 (Observe DNS Traffic) </b>
+  <br> - Back in Wireshark, I filtered for DNS traffic only </b>
+  <br> - From your Windows 10 VM within a command line, use nslookup to see what google.com's IP addresses are </b>
+  <br> - Observe the DNS traffic being show in WireShark </b>
+</p>
+
+IMAGE
+
+<p>
+<br> Part 6 (Observe RDP Traffic) </b>
+  <br> - Back in Wireshark, filtered for RDP traffic only (tcp.port == 3389) </b>
+  <br> - Observed the immediate non-stop spam of traffic due to rdp constantly showing live traffic from one computer to another </b>
+</p>
