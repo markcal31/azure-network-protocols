@@ -116,11 +116,11 @@ Project Summary: This Project is a walkthrough of the steps I took to showcase v
 
 ![image](https://github.com/user-attachments/assets/1adbe6c4-81c3-46c0-8ecd-88f42b27751d)
 
-IMAGE
+![image](https://github.com/user-attachments/assets/1d55f88d-7d2a-4933-bfed-c40d36596f37)
 
-IMAGE
+![image](https://github.com/user-attachments/assets/0ce9c748-d3e4-4951-a2b3-eb2b302bb71d)
 
-IMAGE
+![image](https://github.com/user-attachments/assets/3a19caf6-afe7-4ed6-9ec4-4e207cd1394f)
 
 <p>
 <br> Part 4 (Observe DHCP Traffic) </b>
@@ -129,9 +129,9 @@ IMAGE
   <br> - Observed the DHCP traffic appearing in WireShark </b>
 </p>
 
-IMAGE
+![image](https://github.com/user-attachments/assets/e516f889-6385-4aea-889f-5a0866cee044)
 
-IMAGE
+![image](https://github.com/user-attachments/assets/3a4bded0-88a5-4962-9eaa-0b10dd6d192c)
 
 <p>
 <br> Part 5 (Observe DNS Traffic) </b>
@@ -140,7 +140,7 @@ IMAGE
   <br> - Observe the DNS traffic being show in WireShark </b>
 </p>
 
-IMAGE
+![image](https://github.com/user-attachments/assets/c22da6e5-8dcf-47dd-8407-1ffdab6402bd)\
 
 <p>
 <br> Part 6 (Observe RDP Traffic) </b>
